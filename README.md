@@ -2,7 +2,7 @@
 My neovim-config
 
 ## Setup Neovim With This Config
-### Prerequisites
+### 1. Prerequisites
 You'll need a nerd font installed. Install nerd font as follows:
 #### For Linux
 1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
@@ -17,7 +17,7 @@ You'll need a nerd font installed. Install nerd font as follows:
 #### For MacOS
 1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
 2. Open the `Font Book` application and install the downloaded fonts
-### Setup Process
+### 2. Setup Process
 1. Download the config files into `.config/`
 ```bash
 cd ~/
@@ -28,3 +28,5 @@ mv neovim-config/ nvim/
 ```
 2. Open up neovim with ```nvim .```
 3. run ```:Mason``` and install all your prefered lsps
+## After Setting Up
+Enjoy your `VScode` free life!
