@@ -1,5 +1,5 @@
 # neovim-config
-My neovim-config
+My neovim-config btw
 
 ## Setup Neovim With This Config
 ### 1. Prerequisites
@@ -29,4 +29,4 @@ mv neovim-config/ nvim/
 2. Open up neovim with ```nvim .```
 3. run ```:Mason``` and install all your prefered lsps
 ## After Setting Up
-Enjoy your `VScode` free life!
+Enjoy your `VScode` free life and start being a chad
