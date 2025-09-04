@@ -3,7 +3,17 @@ My neovim-config
 
 ## Setup Neovim With This Config
 ### Prerequisites
-1. You'll need a nerd font installed
+You'll need a nerd font installed. Install nerd font as follows:
+#### For Linux
+1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
+2. Install the font
+   ```bash
+   unzip Downloads/your-nerd-font.zip -d ~/.fonts
+   sudo fc-cache -fv
+   ```
+#### For Windows
+1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
+2. Highlight all of the `.ttf` or `.otf` files, right-click and click `install`
 ### Setup Process
 1. Download the config files into `.config/`
 ```bash
