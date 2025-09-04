@@ -2,9 +2,16 @@
 My neovim-config
 
 ## Setup Neovim With This Config
-1. ```cd ~/```
-2. ```mkdir .config``` or ```cd .config``` if ```.config``` already exists
-3. ```git clone git@github.com:Tin-Ko/neovim-config.git```
-4. rename ```neovim-config``` to ```nvim```
-5. Open up neovim
-6. run ```:Mason``` and install all your prefered lsps
+### Prerequisites
+1. You'll need a nerd font installed
+### Setup Process
+1. Download the config files into `.config/`
+```bash
+cd ~/
+mkdir -p .config
+cd .config
+git clone git@github.com:Tin-Ko/neovim-config.git
+mv neovim-config/ nvim/
+```
+2. Open up neovim with ```nvim .```
+3. run ```:Mason``` and install all your prefered lsps
