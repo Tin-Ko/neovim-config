@@ -14,6 +14,9 @@ You'll need a nerd font installed. Install nerd font as follows:
 #### For Windows
 1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
 2. Highlight all of the `.ttf` or `.otf` files, right-click and click `install`
+#### For MacOS
+1. Download a nerd font you like from https://www.nerdfonts.com/font-downloads
+2. Open the `Font Book` application and install the downloaded fonts
 ### Setup Process
 1. Download the config files into `.config/`
 ```bash
